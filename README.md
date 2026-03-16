@@ -1,4 +1,4 @@
-# ⚠警告⚠
+# **⚠警告⚠**
 他言無用です。
 もし言うのであれば、「絶対に先生にチクらないだろうな」
 という人にのみ言うようにしてください。
@@ -8,9 +8,7 @@ Amと言います。
 フィルタリング断固反対派です。
 
 ※このブックマーク集はChrome向けです。
-Chromium系のブラウザ（
-https://ja.wikipedia.org/wiki/Chromium#Chromium%E3%83%99%E3%83%BC%E3%82%B9%E3%81%AE%E3%83%96%E3%83%A9%E3%82%A6%E3%82%B6
-もしくは一番下のリスト）以外では使えません。多分。
+Chromium系のブラウザ（一覧は[Wikipedia](https://ja.wikipedia.org/wiki/Chromium#Chromium%E3%83%99%E3%83%BC%E3%82%B9%E3%81%AE%E3%83%96%E3%83%A9%E3%82%A6%E3%82%B6)もしくは一番下のリスト）以外では使えません。多分。
 
 # ～使い方（パソコン）～
 1.ファイルをダウンロード
@@ -29,24 +27,24 @@ https://ja.wikipedia.org/wiki/Chromium#Chromium%E3%83%99%E3%83%BC%E3%82%B9%E3%81
 
 
 # Chromium系のブラウザリスト By.Wikipedia（不足はある）
-Amazon Silk
-Android標準ブラウザ（バージョン4.4以降）
-Blisk
-Brave
-Cent Browser
-Comodo Dragon
-Cốc Cốc
-CoolNovo
-Craving Explorer
-Decentr
-Google Chrome
-Kinza
-Microsoft Edge（バージョン79.0.309.65以降）
-Opera（バージョン15以降）
-Sleipnir
-SRWare Iron
-Slimje
-Vivaldi
-Yandex Browser
-アバスト セキュア ブラウザ
-ネイバーウェール
+- Amazon Silk
+- Android標準ブラウザ（バージョン4.4以降）
+- Blisk
+- Brave
+- Cent Browser
+- Comodo Dragon
+- Cốc Cốc
+- CoolNovo
+- Craving Explorer
+- Decentr
+- Google Chrome
+- Kinza
+- Microsoft Edge（バージョン79.0.309.65以降）
+- Opera（バージョン15以降）
+- Sleipnir
+- SRWare Iron
+- Slimje
+- Vivaldi
+- Yandex Browser
+- アバスト セキュア ブラウザ
+- ネイバーウェール
