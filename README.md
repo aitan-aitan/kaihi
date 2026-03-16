@@ -10,7 +10,7 @@ Amと言います。
 ※このブックマーク集はChrome向けです。
 Chromium系のブラウザ（一覧は[Wikipedia](https://ja.wikipedia.org/wiki/Chromium#Chromium%E3%83%99%E3%83%BC%E3%82%B9%E3%81%AE%E3%83%96%E3%83%A9%E3%82%A6%E3%82%B6)もしくは一番下のリスト）以外では使えません。多分。
 
-# ～使い方（パソコン）～
+## 使い方（パソコン）
 1.ファイルをダウンロード
 2.zipを展開
 3.ブラウザを開く
@@ -26,7 +26,7 @@ Chromium系のブラウザ（一覧は[Wikipedia](https://ja.wikipedia.org/wiki/
 連絡はこちら→　am1515-contact@yahoo.co.jp
 
 
-# Chromium系のブラウザリスト By.Wikipedia（不足はある）
+## Chromium系のブラウザリスト By.Wikipedia（不足はある）
 - Amazon Silk
 - Android標準ブラウザ（バージョン4.4以降）
 - Blisk
